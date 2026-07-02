@@ -6,8 +6,8 @@ padding: 0;
 
 body{
 
-    background-color: midnightblue;
-    color: lightskyblue;
+    background-color: rgb(12, 12, 61);
+    color: rgb(8, 65, 100);
     margin: 0px;
     margin-bottom: 100px;
 }
@@ -15,7 +15,7 @@ body{
 header{
 
     background-color: black;
-    color:blueviolet;
+    color:rgb(38, 15, 59);
     text-align: center;
     padding: 20px;
 
